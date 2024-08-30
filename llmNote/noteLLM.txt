@@ -1,0 +1,3 @@
+Select LLM model
+create prompt
+run function using input
