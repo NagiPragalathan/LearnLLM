@@ -1,0 +1,4 @@
+- Choose the model g4f[model, provider]
+- Create the Prompt template [template, usr_inp]
+- LLMChain to connect llm and prompt temp [llm, prompt]
+- using the instance of LLMChain to hit the server using run()

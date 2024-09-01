@@ -15,5 +15,5 @@ model = "gpt-3.5-turbo"  # Replace with the model name you want to use
 # Generate a response
 response = chat.create(model=model, messages=messages)
 
-print("Generated Text:")
-print(response['choices'][0]['message']['content'])
+print("Generated Text:", response)
+# print(response['choices'][0]['message']['content'])
