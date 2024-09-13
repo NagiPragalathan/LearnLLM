@@ -1,0 +1,85 @@
+SKILLS
+PROJECTS & PRODUCTS
+NagiPragalathan
+nagipragalathan@gmail.com
++91 7401268091
+FullStack Developer
+nagi-pragalathan
+VOLUNTEER EXPERIENCE
+invigilator : I have worked as an invigilator for the AMCAT
+test.
+Ambassdor: Ambassdor of JEC Coding club
+Trainer: Conducted online and offline workshops
+Volunteer: Volunteer at the TPG Chennai Community.
+SUMMARY
+EDUCATION PROFESSIONAL EXPERIENCE
+NAGIPRAGALATHAN N
+Enthusiastic Full Stack Developer with a solid foundation in programming, development, large language models
+(LLM). Proven success in hackathons and hands-on experience in both frontend and backend development.
+Proficient in a variety of languages, frameworks, and tools, and passionate about Web3 and blockchain
+technologies. Recognized for excellent problem-solving, language proficiency, and teamwork skills. Committed
+to continuous learning and contributing to the open-source community.
+Languages: Python, JavaScript, core C#, SQL, ORM,
+Solidity.
+Frameworks & library : Django, NextJS, Flask, Express,
+Web3, Ethers.js, G4f, Langchain.
+Tools: VsCode, pycharm, Git, GitHub, Canva, RestApi,
+Basic Figma, Unity, Remix, KineMaster.
+Database: MySQL, SQLite3, MongoDB, Pinecone.
+hosting platforms : AWS, Hostinger.
+Operating System: Windows, Linux (Ubuntu, Kali)
+Technology : Web3, AI (LLM), Basic (IOT), Cloud.
+Won Starknet India CC Hackathon (ETH INDIA EVENTS) (1st
+Price) – Dec, 2022
+Won Starknet India HH Hackathon (ETH INDIA EVENTS) (3rd
+Price) – Dec, 2023
+Won Polygon Bountry in ETH India (1st Price)
+Won TPG HackerHouse hackathon (ETH INDIA EVENTS) (1st
+Price) - Dec, 2022
+Won ETHAmrita hackathon (2nd Price) -April, 2023
+Achieved 1st prize by Completing Responsive Website with
+accuracy and efficiency in Web Design Contest in JEC Coding
+Club.
+2nd prize in Project Demo in Software Freedom Day at JEC
+Achieved 1st prize in Tech Demo in JEC Coding CLUB.
+1000+ Open Source Contributions in the Github.
+ACHIEVEMENTS
+SATHYAMURTHINAGAR POOMPOZHEUND NAGAR ,
+AVADI , Chennai - 62
+2018 - 2020 (10, 11, 12)
+THIRUNINRAVUR , TAMIL NADU College ASSOCIATE
+OF COMPUTER SCIENCE ENGINEERING
+2020-2024
+GOVERNMENT HIGHER SECONDARY
+SCHOOL
+JAYA ENGINEERING COLLAGE
+Limra United Technology | Internship | Chennai | onsite
+SDE Intern: [Cypress, SQL, NextJS, Selenium, Python]
+Project- Works both in the Testing team and the
+Development team.
+EXPERIENCE
+SecureDapp | Internship | Bangalore | Remote
+Frontend developer: [Java Script, React JS, Ether JS, Web3.py]
+Played a pivotal role as a frontend developer in the
+development of Web3 SecuredApp's launchpad project.
+Starkshoot | Chennai | Remote
+Game Developer: [C#, unity, Cairo]
+worked on multiplayer game which is integrated with Web3.
+Live Projects: These are the top 5 live projects I have
+completed for freelancing: [LMS for JEC and JSEC,
+MyGuruPlus, Finalty, VectoryConnect, StarkShoot].
+LiveGames: I have completed projects in the gaming
+domain, including BlockBattle and StarkShoot, which is
+a multiplayer 3D shooting game with Web3 integration.
+CompilerDesign: X3 and 0g3, an innovative
+programming language I created, simplify DApp
+development by integrating proof of work into the
+blockchain, enhancing decentralization and
+streamlining contract management.
+Open Source: I have contributed to 5+ modules for the
+Python community : [OrangeLab, WebTorchX,
+DJOptima, EnigmaShield, TerminalDesigner].
+Susanoox | Chennai | Remote
+FullStack Developer: [Pythton, Django, LLM, Nextjs, Web3]
+Worked on AI, LLM, and web technologies.
+https//:nagipragalathan.vercel.app
